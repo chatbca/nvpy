@@ -32,7 +32,7 @@ class Employee:
 
 employees = []
 
-s
+
 for i in range(int(input("Enter number of employees: "))):
     employee = Employee()
     employee.accept_details()
